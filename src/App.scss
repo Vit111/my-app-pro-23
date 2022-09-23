@@ -1,0 +1,74 @@
+body {
+  text-align: center;
+  background-color: darkblue;
+}
+
+.container{
+  width: 100%;
+  max-width: 1420px;
+  margin: 0 auto;
+  background-color: slateblue;
+  border-radius: 20px;
+}
+
+.input{
+  max-width: 1200px;
+  width: 100%;
+  background-color: aqua;
+  padding: 20px;
+  font-size: 15px;
+  color: orangered;
+  border-radius: 20px;
+  border: 3px solid orange;
+}
+
+.items{
+  color: orangered;
+  font-size: 20px;
+}
+
+.button{
+  margin: 20px;
+  padding: 20px 40px;
+  background-color: fuchsia;
+  border-radius: 20px;
+  border: 3px solid orange;
+}
+
+.liststyle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.list{
+  .form{
+    display: flex;
+  }
+}
+
+.items{
+  margin: 0 40px;
+  list-style: none;
+  color: gold;
+  background-color: firebrick;
+  padding: 20px;
+  border-radius: 20px;
+  border: 3px solid orange;
+}
+
+.edit{
+  margin: 20px;
+  padding: 20px 40px;
+  background-color: forestgreen;
+  border-radius: 20px;
+  border: 3px solid orange;
+}
+
+.submit{
+  margin: 20px;
+  padding: 20px 60px;
+  background-color: yellowgreen;
+  border-radius: 20px;
+  border: 3px solid brown;
+}
